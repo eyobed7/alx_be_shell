@@ -1,3 +1,2 @@
 #!/bin/bash
 chmod 753 hello
-sudo chown root:root hello
